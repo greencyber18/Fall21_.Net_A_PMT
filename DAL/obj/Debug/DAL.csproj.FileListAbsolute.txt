@@ -1,0 +1,11 @@
+C:\FinalRandom\PMS\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\FinalRandom\PMS\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\PMS\DAL\bin\Debug\DAL.dll.config
+C:\FinalRandom\PMS\DAL\bin\Debug\DAL.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\DAL.pdb
+C:\FinalRandom\PMS\DAL\bin\Debug\EntityFramework.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\EntityFramework.xml
+C:\FinalRandom\PMS\DAL\obj\Debug\DAL.dll
+C:\FinalRandom\PMS\DAL\obj\Debug\DAL.pdb
+C:\FinalRandom\PMS\DAL\bin\Debug\AutoMapper.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\AutoMapper.xml

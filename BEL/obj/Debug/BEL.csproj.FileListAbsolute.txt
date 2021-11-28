@@ -1,0 +1,6 @@
+C:\FinalRandom\PMS\BEL\obj\Debug\BEL.csproj.AssemblyReference.cache
+C:\FinalRandom\PMS\BEL\obj\Debug\BEL.csproj.CoreCompileInputs.cache
+C:\FinalRandom\PMS\BEL\bin\Debug\BEL.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\BEL.pdb
+C:\FinalRandom\PMS\BEL\obj\Debug\BEL.dll
+C:\FinalRandom\PMS\BEL\obj\Debug\BEL.pdb
