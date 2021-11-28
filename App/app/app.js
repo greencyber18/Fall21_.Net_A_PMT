@@ -21,6 +21,10 @@ app.config(["$routeProvider","$locationProvider",function($routeProvider,$locati
         templateUrl : "views/pages/Project.html",
         controller: 'Project'
     })
+    .when("/common", {
+        templateUrl : "views/pages/common.html",
+        controller: 'common'
+    })
     .otherwise({
         redirectTo:"/"
     });
