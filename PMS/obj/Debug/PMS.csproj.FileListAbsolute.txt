@@ -75,4 +75,6 @@ C:\FinalRandom\PMS\PMS\obj\Debug\PMS.dll
 C:\FinalRandom\PMS\PMS\obj\Debug\PMS.pdb
 C:\FinalRandom\PMS\PMS\bin\BEL.dll
 C:\FinalRandom\PMS\PMS\bin\BEL.pdb
-C:\FinalRandom\PMS\PMS\obj\Debug\PMS.csproj.CopyComplete
+C:\FinalRandom\PMS\PMS\bin\System.Web.Cors.dll
+C:\FinalRandom\PMS\PMS\bin\System.Web.Http.Cors.dll
+C:\FinalRandom\PMS\PMS\bin\System.Web.Http.Cors.xml

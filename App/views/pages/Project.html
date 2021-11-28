@@ -1,7 +1,20 @@
 <div>
-    <ul>
-        <li ng-repeat="p in Project"> {{p.Title}}</li>
-      
-
-    </ul>
-</div>
+    <h1>Project</h1>
+  
+      <table border="1">
+        <tr>
+          <th>Id</th>
+          <th>Title</th>
+          <th>Category</th>
+          <th>status</th>
+        
+        </tr>
+        <tr ng-repeat="p in Project">
+            <td>{{p.ID}}</td>
+            <td>{{p.Title}}</td>
+            <td>{{p.Category}}</td>
+            <td>{{p.status}}</td>
+            
+        </tr>
+      </table>
+  </div>

@@ -4,3 +4,13 @@ C:\FinalRandom\PMS\BEL\bin\Debug\BEL.dll
 C:\FinalRandom\PMS\BEL\bin\Debug\BEL.pdb
 C:\FinalRandom\PMS\BEL\obj\Debug\BEL.dll
 C:\FinalRandom\PMS\BEL\obj\Debug\BEL.pdb
+C:\FinalRandom\PMS\BEL\bin\Debug\Newtonsoft.Json.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Net.Http.Formatting.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Web.Cors.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Web.Http.Cors.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Web.Http.dll
+C:\FinalRandom\PMS\BEL\bin\Debug\Newtonsoft.Json.xml
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Net.Http.Formatting.xml
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Web.Http.xml
+C:\FinalRandom\PMS\BEL\bin\Debug\System.Web.Http.Cors.xml
+C:\FinalRandom\PMS\BEL\obj\Debug\BEL.csproj.CopyComplete

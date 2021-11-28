@@ -9,3 +9,13 @@ C:\FinalRandom\PMS\DAL\obj\Debug\DAL.dll
 C:\FinalRandom\PMS\DAL\obj\Debug\DAL.pdb
 C:\FinalRandom\PMS\DAL\bin\Debug\AutoMapper.dll
 C:\FinalRandom\PMS\DAL\bin\Debug\AutoMapper.xml
+C:\FinalRandom\PMS\DAL\bin\Debug\Newtonsoft.Json.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Net.Http.Formatting.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Web.Cors.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Web.Http.Cors.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Web.Http.dll
+C:\FinalRandom\PMS\DAL\bin\Debug\Newtonsoft.Json.xml
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Net.Http.Formatting.xml
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Web.Http.xml
+C:\FinalRandom\PMS\DAL\bin\Debug\System.Web.Http.Cors.xml
+C:\FinalRandom\PMS\DAL\obj\Debug\DAL.csproj.CopyComplete
